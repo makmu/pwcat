@@ -3,24 +3,17 @@
     "short_name": "PWCat",
     "description": "A funny cat image generator",  
     "icons": [{
-        "src": "assets/icon-128x128.png",
-          "sizes": "128x128",
+          "src": "assets/icon-228x228.png",
+          "sizes": "228x228",
           "type": "image/png"
-        }, {
-          "src": "assets/icon-152x152.png",
-          "sizes": "152x152",
-          "type": "image/png"
-        }, {
-          "src": "assets/icon-256x256.png",
-          "sizes": "256x256",
-          "type": "image/png"
-        }, {
-          "src": "assets/icon-512x512.png",
-          "sizes": "512x512",
-          "type": "image/png"
+        
         }],
-    "start_url": "index.html",
     "display": "standalone",
+
+    "start_url": ".",
     "background_color": "#ffffff",
     "theme_color": "#673ab7"
   }
+  
+
+  
