@@ -1,14 +1,14 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "/pwcat/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html"
+        "/pwcat/favicon.ico",
+        "/pwcat/index.html"
       ],
       "patterns": []
     },
@@ -17,16 +17,16 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icon-228x228.png"
+        "/pwcat/assets/icon-228x228.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icon-228x228.png": "052a7dd0ec85dc68e8f0874a29e080fcf06abbc4",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d2770493028551fec434b62af9e92af4c38bd8af"
+    "/pwcat/assets/icon-228x228.png": "052a7dd0ec85dc68e8f0874a29e080fcf06abbc4",
+    "/pwcat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/pwcat/index.html": "c448c979bc2205d97bb82f58790130aba89aaf9a"
   },
   "navigationUrls": [
     {
