@@ -16,14 +16,17 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "/pwcat/assets/icon-228x228.png"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/pwcat/assets/icon-228x228.png": "052a7dd0ec85dc68e8f0874a29e080fcf06abbc4",
     "/pwcat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pwcat/index.html": "c45c66ee3d090184e676b6dde138e738664b0781"
+    "/pwcat/index.html": "6b4339b16d5abee0d46fa575fa2bb7c59309569d"
   },
   "navigationUrls": [
     {
