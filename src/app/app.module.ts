@@ -11,7 +11,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    environment.production ? ServiceWorkerModule.register('ngsw-worker.js') : []
+    ServiceWorkerModule.register('ngsw-worker.js')
   ],
   providers: [],
   bootstrap: [AppComponent]
