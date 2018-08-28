@@ -1,14 +1,14 @@
 {
   "configVersion": 1,
-  "index": "/pwcat/index.html",
+  "index": "https://makmu.github.io/pwcat/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/pwcat/favicon.ico",
-        "/pwcat/index.html"
+        "https://makmu.github.io/pwcat/favicon.ico",
+        "https://makmu.github.io/pwcat/index.html"
       ],
       "patterns": []
     },
@@ -17,16 +17,16 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/pwcat/assets/icon-228x228.png"
+        "https://makmu.github.io/pwcat/assets/icon-228x228.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/pwcat/assets/icon-228x228.png": "052a7dd0ec85dc68e8f0874a29e080fcf06abbc4",
-    "/pwcat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pwcat/index.html": "25cf10e92e1bd414839bcdf0507a02012af4cd3e"
+    "https://makmu.github.io/pwcat/assets/icon-228x228.png": "052a7dd0ec85dc68e8f0874a29e080fcf06abbc4",
+    "https://makmu.github.io/pwcat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://makmu.github.io/pwcat/index.html": "819bf4fa8db8a58f211d65bb9cf8c57bf9d1b350"
   },
   "navigationUrls": [
     {
