@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { SwPush } from '@angular/service-worker';
 
-import * as webpush from 'web-push';
-
 @Component({
   selector: 'my-app-root',
   templateUrl: './app.component.html',
